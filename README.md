@@ -1,1 +1,1 @@
-
+Designed a comprehensive car rantal system to streamline the process of renting  vehicles. This system aids car rental companies in managing their vehicle fleet,tracking customer reservatios, processing payments, and handling various administrative tasks.it integrates several core features including vehicle inventory management, customer account management, reservation and booking capabilities, and reporting tools.
